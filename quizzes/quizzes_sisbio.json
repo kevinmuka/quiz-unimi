@@ -2,7 +2,7 @@
   "quizzes": [
     {
       "id": "quiz1",
-      "title": "Quiz 1",
+      "title": "Set 1 (50 domande)",
       "questions": [
         {
           "id": "quiz1_q1",
@@ -912,7 +912,7 @@
     },
     {
       "id": "quiz2",
-      "title": "Quiz 2",
+      "title": "Set 2 (51 domande)",
       "questions": [
         {
           "id": "quiz2_q1",
@@ -1821,7 +1821,7 @@
     },
     {
       "id": "quiz3",
-      "title": "Quiz 3",
+      "title": "Set 3 (51 domande)",
       "questions": [
         {
           "id": "quiz3_q1",
@@ -2679,7 +2679,7 @@
     },
     {
       "id": "quiz4",
-      "title": "Quiz 4",
+      "title": "Set 4 (51 domande)",
       "questions": [
         {
           "id": "quiz4_q1",
@@ -3543,7 +3543,7 @@
     },
     {
       "id": "quiz5",
-      "title": "Quiz 5",
+      "title": "Set 5 (51 domande)",
       "questions": [
         {
           "id": "quiz5_q1",
@@ -4353,7 +4353,7 @@
     },
     {
       "id": "quiz6",
-      "title": "Quiz 6",
+      "title": "Set 6 (29 domande)",
       "questions": [
         {
           "id": "quiz6_q1",

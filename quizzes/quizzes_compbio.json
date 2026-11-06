@@ -2,7 +2,7 @@
   "quizzes": [
     {
       "id": "quiz1",
-      "title": "Complementi di biometria",
+      "title": "Set 1 (65 domande)",
       "questions": [
         {
           "id": "quiz1_q1",
@@ -558,15 +558,9 @@
           "correctIndexes": [
             3
           ]
-        }
-      ]
-    },
-    {
-      "id": "quiz2",
-      "title": "Complementi di biometria",
-      "questions": [
+        },
         {
-          "id": "quiz2_q1",
+          "id": "quiz1_q31",
           "text": "Quando guardi impronte digitali e arrivi a un punto in cui un pixel è 0 e gli altri 1 (0=nero,1=bianco)",
           "choices": [
             {
@@ -587,7 +581,7 @@
           ]
         },
         {
-          "id": "quiz2_q2",
+          "id": "quiz1_q32",
           "text": "A che livello agisce fingercode",
           "choices": [
             {
@@ -608,7 +602,7 @@
           ]
         },
         {
-          "id": "quiz2_q3",
+          "id": "quiz1_q33",
           "text": "Grey scale extraction",
           "choices": [
             {
@@ -626,7 +620,7 @@
           ]
         },
         {
-          "id": "quiz2_q4",
+          "id": "quiz1_q34",
           "text": "Identificazione match on card rimane tutto nella card e non esce niente fuori (è sbagliata la domanda, è autenticazione!)",
           "choices": [
             {
@@ -644,7 +638,7 @@
           ]
         },
         {
-          "id": "quiz2_q5",
+          "id": "quiz1_q35",
           "text": "La Cumulative Match Characteristic CMC(R) permette di trovare gli R individui piÃ¹ simili a k e viene",
           "choices": [
             {
@@ -662,7 +656,7 @@
           ]
         },
         {
-          "id": "quiz2_q6",
+          "id": "quiz1_q36",
           "text": "Riconoscere quanti anni ha uno con le reti neurali",
           "choices": [
             {
@@ -677,7 +671,7 @@
           ]
         },
         {
-          "id": "quiz2_q7",
+          "id": "quiz1_q37",
           "text": "Reti neurali che imparano da esempi sono",
           "choices": [
             {
@@ -695,7 +689,7 @@
           ]
         },
         {
-          "id": "quiz2_q8",
+          "id": "quiz1_q38",
           "text": "Esistono sistemi multimodali integrati su scala nazionale",
           "choices": [
             {
@@ -713,7 +707,7 @@
           ]
         },
         {
-          "id": "quiz2_q9",
+          "id": "quiz1_q39",
           "text": "La teoria del rasoio di Occam",
           "choices": [
             {
@@ -731,7 +725,7 @@
           ]
         },
         {
-          "id": "quiz2_q10",
+          "id": "quiz1_q40",
           "text": "Dispositivo con lenti asferiche",
           "choices": [
             {
@@ -749,7 +743,7 @@
           ]
         },
         {
-          "id": "quiz2_q11",
+          "id": "quiz1_q41",
           "text": "Iride indoor",
           "choices": [
             {
@@ -770,7 +764,7 @@
           ]
         },
         {
-          "id": "quiz2_q12",
+          "id": "quiz1_q42",
           "text": "Cifratura",
           "choices": [
             {
@@ -791,7 +785,7 @@
           ]
         },
         {
-          "id": "quiz2_q13",
+          "id": "quiz1_q43",
           "text": "In un filtraggio adattativo contestuale una parte del filtro controlla la porzione di immagine in esame e adatta i parametri della maschera in base alla situazione locale",
           "choices": [
             {
@@ -806,7 +800,7 @@
           ]
         },
         {
-          "id": "quiz2_q14",
+          "id": "quiz1_q44",
           "text": "I filtraggi adattativi sono applicati nelle impronte digitali per esaltare i ridge tenendo conto",
           "choices": [
             {
@@ -827,7 +821,7 @@
           ]
         },
         {
-          "id": "quiz2_q15",
+          "id": "quiz1_q45",
           "text": "I filtraggi adattativi maggiormente applicati per le impronte digitali sono i filtri di Moirè",
           "choices": [
             {
@@ -842,7 +836,7 @@
           ]
         },
         {
-          "id": "quiz2_q16",
+          "id": "quiz1_q46",
           "text": "Uno dei filtraggi adattativi maggiormente applicati per le impronte digitali sono i filtri di Gabor",
           "choices": [
             {
@@ -860,7 +854,7 @@
           ]
         },
         {
-          "id": "quiz2_q17",
+          "id": "quiz1_q47",
           "text": "Le feature di ridge counting sono considerate",
           "choices": [
             {
@@ -878,7 +872,7 @@
           ]
         },
         {
-          "id": "quiz2_q18",
+          "id": "quiz1_q48",
           "text": "La scelta di una telecamera con doppio tempo di esposizione è utile nei casi di soggetti che si muovono ad alta velocità/si muovono e basta (IN MOVIMENTO)",
           "choices": [
             {
@@ -893,7 +887,7 @@
           ]
         },
         {
-          "id": "quiz2_q19",
+          "id": "quiz1_q49",
           "text": "La scelta di una telecamera con doppio tempo di esposizione è utile nei casi di più soggetti FERMI",
           "choices": [
             {
@@ -908,7 +902,7 @@
           ]
         },
         {
-          "id": "quiz2_q20",
+          "id": "quiz1_q50",
           "text": "Una gamma colore di un sensore per immagini di oltre 100dB è utile in applicazioni",
           "choices": [
             {
@@ -926,7 +920,7 @@
           ]
         },
         {
-          "id": "quiz2_q21",
+          "id": "quiz1_q51",
           "text": "Quali delle affermazioni che seguono sono più corrette?",
           "choices": [
             {
@@ -947,7 +941,7 @@
           ]
         },
         {
-          "id": "quiz2_q22",
+          "id": "quiz1_q52",
           "text": "È possibile correggere gli effetti del rolling shutter impiegato nei sistemi CMOS?",
           "choices": [
             {
@@ -968,7 +962,7 @@
           ]
         },
         {
-          "id": "quiz2_q23",
+          "id": "quiz1_q53",
           "text": "Le tecniche di acquisizione delle immagini in campo biometrico riguardano",
           "choices": [
             {
@@ -989,7 +983,7 @@
           ]
         },
         {
-          "id": "quiz2_q24",
+          "id": "quiz1_q54",
           "text": "Un dispositivo di conversione analogico-digitale è sempre incluso nei sensori per immagini usati in biometria",
           "choices": [
             {
@@ -1004,7 +998,7 @@
           ]
         },
         {
-          "id": "quiz2_q25",
+          "id": "quiz1_q55",
           "text": "È possibile selezionare il numero di bit per tono di grigio di un singolo pixel di una immagine di un sensore",
           "choices": [
             {
@@ -1019,7 +1013,7 @@
           ]
         },
         {
-          "id": "quiz2_q26",
+          "id": "quiz1_q56",
           "text": "Per la biometria del volto e delle mani, il numero di bit/pixel non è praticamente influente",
           "choices": [
             {
@@ -1034,7 +1028,7 @@
           ]
         },
         {
-          "id": "quiz2_q27",
+          "id": "quiz1_q57",
           "text": "Sensori CMOS e CCD sono praticamente equivalenti in campo biometrico dal punto di vista della qualità delle immagini",
           "choices": [
             {
@@ -1052,7 +1046,7 @@
           ]
         },
         {
-          "id": "quiz2_q28",
+          "id": "quiz1_q58",
           "text": "Nei sensori CMOS il problema dell’aliasing",
           "choices": [
             {
@@ -1073,7 +1067,7 @@
           ]
         },
         {
-          "id": "quiz2_q29",
+          "id": "quiz1_q59",
           "text": "Un filtro di polarizzazione può aiutare diverse applicazioni biometriche ma riduce notevolmente la banda spettrale passante specialmente nel visibile",
           "choices": [
             {
@@ -1088,7 +1082,7 @@
           ]
         },
         {
-          "id": "quiz2_q30",
+          "id": "quiz1_q60",
           "text": "È possibile impiegare sensori biometrici per immagini dotati di filtro polarizzatore integrato",
           "choices": [
             {
@@ -1101,15 +1095,9 @@
           "correctIndexes": [
             1
           ]
-        }
-      ]
-    },
-    {
-      "id": "quiz3",
-      "title": "Complementi di biometria - Parte 3",
-      "questions": [
+        },
         {
-          "id": "quiz3_q1",
+          "id": "quiz1_q61",
           "text": "La biometria del volto non può essere realizzata attraverso filtri ottici che permettono l’analisi su bande ottiche diverse",
           "choices": [
             {
@@ -1124,7 +1112,7 @@
           ]
         },
         {
-          "id": "quiz3_q2",
+          "id": "quiz1_q62",
           "text": "L’acquisizione multispettrale si può applicare con le impronte digitali",
           "choices": [
             {
@@ -1145,7 +1133,7 @@
           ]
         },
         {
-          "id": "quiz3_q3",
+          "id": "quiz1_q63",
           "text": "I sistemi per il controllo dell’impronta su smart card (match on card) sono ancora prototipati e non presenti sul mercato",
           "choices": [
             {
@@ -1160,7 +1148,7 @@
           ]
         },
         {
-          "id": "quiz3_q4",
+          "id": "quiz1_q64",
           "text": "Il conteggio delle persone in ambienti indoor può essere eseguito con sistemi in tecnologia 3D",
           "choices": [
             {
@@ -1181,7 +1169,7 @@
           ]
         },
         {
-          "id": "quiz3_q5",
+          "id": "quiz1_q65",
           "text": "È possibile inserire funzionalità biometriche su sistemi mobili quali droni",
           "choices": [
             {
@@ -1203,9 +1191,15 @@
           "correctIndexes": [
             4
           ]
-        },
+        }
+      ]
+    },
+    {
+      "id": "quiz2",
+      "title": "Set 2 (65 domande)",
+      "questions": [
         {
-          "id": "quiz3_q6",
+          "id": "quiz2_q1",
           "text": "Le tecniche di protezione della privacy del template degli utenti realizzate mediante feature transformation o sistemi di biocrittazione",
           "choices": [
             {
@@ -1226,7 +1220,7 @@
           ]
         },
         {
-          "id": "quiz3_q7",
+          "id": "quiz2_q2",
           "text": "Nelle tecniche di protezione della privacy del template mediante elaborazione nel dominio crittato il server conosce l’esito del valore di matching ma non il risultato della comparazione biometrica",
           "choices": [
             {
@@ -1247,7 +1241,7 @@
           ]
         },
         {
-          "id": "quiz3_q8",
+          "id": "quiz2_q3",
           "text": "L’iride è un dato che per le sue proprietà biometriche",
           "choices": [
             {
@@ -1265,7 +1259,7 @@
           ]
         },
         {
-          "id": "quiz3_q9",
+          "id": "quiz2_q4",
           "text": "La protezione della privacy a livello di template nelle applicazioni biometriche",
           "choices": [
             {
@@ -1286,7 +1280,7 @@
           ]
         },
         {
-          "id": "quiz3_q10",
+          "id": "quiz2_q5",
           "text": "La rappresentazione di un pixel di una immagine per la biometria non può essere a 8 bit (256 liv di grigio) in quanto troppo compatta",
           "choices": [
             {
@@ -1301,7 +1295,7 @@
           ]
         },
         {
-          "id": "quiz3_q11",
+          "id": "quiz2_q6",
           "text": "Con un sensore di acquisizione a 3 canali x 8bit per pixel",
           "choices": [
             {
@@ -1322,7 +1316,7 @@
           ]
         },
         {
-          "id": "quiz3_q12",
+          "id": "quiz2_q7",
           "text": "Gli effetti negativi del sistema chiamato rolling shutter nei sistemi CMOS sono",
           "choices": [
             {
@@ -1349,7 +1343,7 @@
           ]
         },
         {
-          "id": "quiz3_q13",
+          "id": "quiz2_q8",
           "text": "È possibile correggere gli effetti del rolling shutter impiegato nei sistemi CMOS",
           "choices": [
             {
@@ -1370,7 +1364,7 @@
           ]
         },
         {
-          "id": "quiz3_q14",
+          "id": "quiz2_q9",
           "text": "Chiudere il diaframma di un sistema ottico biometrico",
           "choices": [
             {
@@ -1394,7 +1388,7 @@
           ]
         },
         {
-          "id": "quiz3_q15",
+          "id": "quiz2_q10",
           "text": "Lo zoom ottico ottiene la magnificazione dell’immagine mediante l’uso di più lenti che modificano la lunghezza focale ma mantenendo il fuoco sul sensore",
           "choices": [
             {
@@ -1409,7 +1403,7 @@
           ]
         },
         {
-          "id": "quiz3_q16",
+          "id": "quiz2_q11",
           "text": "Se un sistema mobile ha uno zoom 150x ottico + 350x digitale può essere effettivamente impiegata per scopi biometrici",
           "choices": [
             {
@@ -1427,7 +1421,7 @@
           ]
         },
         {
-          "id": "quiz3_q17",
+          "id": "quiz2_q12",
           "text": "Le lenti asferiche",
           "choices": [
             {
@@ -1448,7 +1442,7 @@
           ]
         },
         {
-          "id": "quiz3_q18",
+          "id": "quiz2_q13",
           "text": "Per limitare le deformazioni del volto in un sistema biometrico è meglio usare una focale da",
           "choices": [
             {
@@ -1466,7 +1460,7 @@
           ]
         },
         {
-          "id": "quiz3_q19",
+          "id": "quiz2_q14",
           "text": "È possibile inserire funzionalità biometriche su sistemi mobili quali droni?",
           "choices": [
             {
@@ -1487,7 +1481,7 @@
           ]
         },
         {
-          "id": "quiz3_q20",
+          "id": "quiz2_q15",
           "text": "Le tecniche EEG (Electroencephalography)",
           "choices": [
             {
@@ -1508,7 +1502,7 @@
           ]
         },
         {
-          "id": "quiz3_q21",
+          "id": "quiz2_q16",
           "text": "Il controllo biometrico di due immagini del volto della stessa persona acquisite a 1 anno di distanza rappresenta un confronto",
           "choices": [
             {
@@ -1529,7 +1523,7 @@
           ]
         },
         {
-          "id": "quiz3_q22",
+          "id": "quiz2_q17",
           "text": "È possibile montare sistemi su sistemi mobili quali droni",
           "choices": [
             {
@@ -1550,7 +1544,7 @@
           ]
         },
         {
-          "id": "quiz3_q23",
+          "id": "quiz2_q18",
           "text": "Nell’ambito delle tecniche di deeplearning applicate in biometria, la data augmentation",
           "choices": [
             {
@@ -1571,7 +1565,7 @@
           ]
         },
         {
-          "id": "quiz3_q24",
+          "id": "quiz2_q19",
           "text": "Nel caso di un matcher biometrico per l’autenticazione creato mediante tecniche di apprendimento automatico ed intelligenza artificiale",
           "choices": [
             {
@@ -1595,7 +1589,7 @@
           ]
         },
         {
-          "id": "quiz3_q25",
+          "id": "quiz2_q20",
           "text": "Nel caso di sistemi biometrici impieganti sistemi con apprendimento automatico, la creazione delle partizioni di allenamento",
           "choices": [
             {
@@ -1616,7 +1610,7 @@
           ]
         },
         {
-          "id": "quiz3_q26",
+          "id": "quiz2_q21",
           "text": "Nell’ambito della valutazione delle performance dei sistemi biometrici la procedura corretta di valutazione degli errori prevede:",
           "choices": [
             {
@@ -1637,7 +1631,7 @@
           ]
         },
         {
-          "id": "quiz3_q27",
+          "id": "quiz2_q22",
           "text": "Nell’ambito del machine learning applicato alla biometria, i metodi di riduzione della complessità degli ingressi",
           "choices": [
             {
@@ -1658,7 +1652,7 @@
           ]
         },
         {
-          "id": "quiz3_q28",
+          "id": "quiz2_q23",
           "text": "La primitiva biometrica di controllo qualità del tratto biometrico è considerabile come un sistema di classificazione una volta fissata la soglia di qualità accettabile in ingresso al sistema",
           "choices": [
             {
@@ -1679,7 +1673,7 @@
           ]
         },
         {
-          "id": "quiz3_q29",
+          "id": "quiz2_q24",
           "text": "Il modo di progettare dati e modelli per apprendimento automatico chiamato “Rasoio di Occam”",
           "choices": [
             {
@@ -1703,7 +1697,7 @@
           ]
         },
         {
-          "id": "quiz3_q30",
+          "id": "quiz2_q25",
           "text": "Le tecniche di Transfer Learning mediante reti neurali in applicazioni biometriche tipicamente",
           "choices": [
             {
@@ -1725,15 +1719,9 @@
           "correctIndexes": [
             4
           ]
-        }
-      ]
-    },
-    {
-      "id": "quiz4",
-      "title": "Complementi di biometria - Parte 4",
-      "questions": [
+        },
         {
-          "id": "quiz4_q1",
+          "id": "quiz2_q26",
           "text": "La scelta della focale in un sistema per il riconoscimento del volto",
           "choices": [
             {
@@ -1754,7 +1742,7 @@
           ]
         },
         {
-          "id": "quiz4_q2",
+          "id": "quiz2_q27",
           "text": "Le reti di tipo deep learning sono efficacemente impiegate nella speech recognition",
           "choices": [
             {
@@ -1769,7 +1757,7 @@
           ]
         },
         {
-          "id": "quiz4_q3",
+          "id": "quiz2_q28",
           "text": "I metodi di imaging di High Dynamic Range sono particolarmente utili",
           "choices": [
             {
@@ -1787,7 +1775,7 @@
           ]
         },
         {
-          "id": "quiz4_q4",
+          "id": "quiz2_q29",
           "text": "In applicazioni di sorveglianza per ridurre il campo visivo simile a quello umano binoculare",
           "choices": [
             {
@@ -1808,7 +1796,7 @@
           ]
         },
         {
-          "id": "quiz4_q5",
+          "id": "quiz2_q30",
           "text": "Un dispositivo di conversione analogico-digitale è sempre incluso dei sensori per immagini usati in biometria",
           "choices": [
             {
@@ -1823,7 +1811,7 @@
           ]
         },
         {
-          "id": "quiz4_q6",
+          "id": "quiz2_q31",
           "text": "È possibile correggere gli effetti del Rolling Shutter impiegato nei sistemi CMOS",
           "choices": [
             {
@@ -1847,7 +1835,7 @@
           ]
         },
         {
-          "id": "quiz4_q7",
+          "id": "quiz2_q32",
           "text": "Per realizzare caratteristiche di anti-spoofing in un sistema biometrico, un parametro molto importante da considerare nella scelta del sistema è",
           "choices": [
             {
@@ -1868,7 +1856,7 @@
           ]
         },
         {
-          "id": "quiz4_q8",
+          "id": "quiz2_q33",
           "text": "Nelle applicazioni di sicurezza che controllano oggetti o persone in movimento",
           "choices": [
             {
@@ -1889,7 +1877,7 @@
           ]
         },
         {
-          "id": "quiz4_q9",
+          "id": "quiz2_q34",
           "text": "Un sistema di visione compatto impiegabile in applicazioni biometriche con magnificazione ottica 10x, sensore a 10 Mpixel autofocus, nelle dimensioni minori di 100x100x100mm",
           "choices": [
             {
@@ -1913,7 +1901,7 @@
           ]
         },
         {
-          "id": "quiz4_q10",
+          "id": "quiz2_q35",
           "text": "Con un sensore di acquisizione a 3 canali x 8 bit per pixel",
           "choices": [
             {
@@ -1937,7 +1925,7 @@
           ]
         },
         {
-          "id": "quiz4_q11",
+          "id": "quiz2_q36",
           "text": "La rappresentazione di un pixel di un’immagine per la biometria non può essere a 8 bit (256 livelli di grigio) in quanto troppo compatta",
           "choices": [
             {
@@ -1952,7 +1940,7 @@
           ]
         },
         {
-          "id": "quiz4_q12",
+          "id": "quiz2_q37",
           "text": "Un sistema di videosorveglianza biometrica",
           "choices": [
             {
@@ -1973,7 +1961,7 @@
           ]
         },
         {
-          "id": "quiz4_q13",
+          "id": "quiz2_q38",
           "text": "Un sistema ottico macro è tipicamente impiegato in applicazioni",
           "choices": [
             {
@@ -1994,7 +1982,7 @@
           ]
         },
         {
-          "id": "quiz4_q14",
+          "id": "quiz2_q39",
           "text": "È possibile selezionare il numero di bit per il tono di grigio di un singolo pixel di un’immagine di un sensore",
           "choices": [
             {
@@ -2015,7 +2003,7 @@
           ]
         },
         {
-          "id": "quiz4_q15",
+          "id": "quiz2_q40",
           "text": "Una gamma colore di un sensore per immagini di oltre 100 dB è utile in applicazioni",
           "choices": [
             {
@@ -2036,7 +2024,7 @@
           ]
         },
         {
-          "id": "quiz4_q16",
+          "id": "quiz2_q41",
           "text": "Il sistema AFIS italiano realizza le funzioni di identificazione",
           "choices": [
             {
@@ -2057,7 +2045,7 @@
           ]
         },
         {
-          "id": "quiz4_q17",
+          "id": "quiz2_q42",
           "text": "Un sistema AFIS nazionale tipicamente contiene immagini iridee",
           "choices": [
             {
@@ -2072,7 +2060,7 @@
           ]
         },
         {
-          "id": "quiz4_q18",
+          "id": "quiz2_q43",
           "text": "Una convoluzione fra l’immagine I() e il kernel k() utile a realizzare un filtraggio della immagine viene rappresentata come",
           "choices": [
             {
@@ -2093,7 +2081,7 @@
           ]
         },
         {
-          "id": "quiz4_q19",
+          "id": "quiz2_q44",
           "text": "La tecnica per l’estrazione di feature per le impronte digitali chiamata Fingercoding è una tecnica",
           "choices": [
             {
@@ -2114,7 +2102,7 @@
           ]
         },
         {
-          "id": "quiz4_q20",
+          "id": "quiz2_q45",
           "text": "Se nell’intorno di un punto di esame di un’immagine binarizzata e scheletrizzata (con creste in nero) di una impronta digitale composto da 8 pixel si ha 1 pixel a zero e tutti gli altri a 1 è maggiormente probabile che ci si trovi in corrispondenza di",
           "choices": [
             {
@@ -2135,7 +2123,7 @@
           ]
         },
         {
-          "id": "quiz4_q21",
+          "id": "quiz2_q46",
           "text": "Esistono sistemi integrati biometrici multimodali su scala nazionale",
           "choices": [
             {
@@ -2150,7 +2138,7 @@
           ]
         },
         {
-          "id": "quiz4_q22",
+          "id": "quiz2_q47",
           "text": "In un filtraggio adattivo contestuale, una parte del filtro stima parametri locali da porzioni dell’immagine in esame e adatta i parametri della maschera in base ai parametri stimati",
           "choices": [
             {
@@ -2171,7 +2159,7 @@
           ]
         },
         {
-          "id": "quiz4_q23",
+          "id": "quiz2_q48",
           "text": "È possibile eseguire un riconoscimento tramite l’iride anche da immagini nel visibile se",
           "choices": [
             {
@@ -2195,7 +2183,7 @@
           ]
         },
         {
-          "id": "quiz4_q24",
+          "id": "quiz2_q49",
           "text": "Un sistema AFIS moderno riesce a raggiungere",
           "choices": [
             {
@@ -2216,7 +2204,7 @@
           ]
         },
         {
-          "id": "quiz4_q25",
+          "id": "quiz2_q50",
           "text": "Completare la seguente frase. Il conteggio delle persone in ambienti indoor può essere eseguito con sistemi in tecnologia 3D",
           "choices": [
             {
@@ -2237,7 +2225,7 @@
           ]
         },
         {
-          "id": "quiz4_q26",
+          "id": "quiz2_q51",
           "text": "I sistemi Match on Card per l’impronta includono interessanti caratteristiche fra le quali",
           "choices": [
             {
@@ -2258,7 +2246,7 @@
           ]
         },
         {
-          "id": "quiz4_q27",
+          "id": "quiz2_q52",
           "text": "Completare la seguente frase. I sistemi per il riconoscimento dell’iride in ambienti indoor",
           "choices": [
             {
@@ -2279,7 +2267,7 @@
           ]
         },
         {
-          "id": "quiz4_q28",
+          "id": "quiz2_q53",
           "text": "Quali tecniche avanzate per il miglioramento delle prestazioni di sistemi biometrici possono essere efficacemente utilizzate in applicazioni biometriche",
           "choices": [
             {
@@ -2300,7 +2288,7 @@
           ]
         },
         {
-          "id": "quiz4_q29",
+          "id": "quiz2_q54",
           "text": "Negli approcci deeplearning applicati alla biometria basati sulle immagini tipicamente",
           "choices": [
             {
@@ -2321,7 +2309,7 @@
           ]
         },
         {
-          "id": "quiz4_q30",
+          "id": "quiz2_q55",
           "text": "La primitiva biometrica di Fingerprint Indexing è considerabile come un sistema di classificazione",
           "choices": [
             {
@@ -2334,15 +2322,9 @@
           "correctIndexes": [
             1
           ]
-        }
-      ]
-    },
-    {
-      "id": "quiz5",
-      "title": "Complementi di biometria - Parte 5",
-      "questions": [
+        },
         {
-          "id": "quiz5_q1",
+          "id": "quiz2_q56",
           "text": "Per effettuare template selection nelle applicazioni per l’iride può/possono essere utili",
           "choices": [
             {
@@ -2363,7 +2345,7 @@
           ]
         },
         {
-          "id": "quiz5_q2",
+          "id": "quiz2_q57",
           "text": "Considerando la curva di Decision Error Tradeoff e la curva Receiver Operating Characteristic si può affermare",
           "choices": [
             {
@@ -2384,7 +2366,7 @@
           ]
         },
         {
-          "id": "quiz5_q3",
+          "id": "quiz2_q58",
           "text": "Nella maggioranza delle applicazioni biometriche risolte mediante metodi di apprendimento automatico",
           "choices": [
             {
@@ -2405,7 +2387,7 @@
           ]
         },
         {
-          "id": "quiz5_q4",
+          "id": "quiz2_q59",
           "text": "Nell’ambito dei modelli di deeplearning usati in biometria, il modulo di Max Pooling",
           "choices": [
             {
@@ -2426,7 +2408,7 @@
           ]
         },
         {
-          "id": "quiz5_q5",
+          "id": "quiz2_q60",
           "text": "In un modello di deeplearning CNN usato in applicazioni biometriche è tipico che negli strati finali si crei, dalle uscite dello strato precedente un unico vettore da elaborare negli ultimi strati della rete",
           "choices": [
             {
@@ -2441,7 +2423,7 @@
           ]
         },
         {
-          "id": "quiz5_q6",
+          "id": "quiz2_q61",
           "text": "Nell’ambito dei modelli di deeplearning usati in biometria, quali dei seguenti modulo possono annullare il gradiente nella funzione di ottimizzazione dei pesi e quindi produrre una semplificazione dell’apprendimento?",
           "choices": [
             {
@@ -2462,7 +2444,7 @@
           ]
         },
         {
-          "id": "quiz5_q7",
+          "id": "quiz2_q62",
           "text": "Le lenti asferiche rappresentano una soluzione interessante per le ottiche adottate nei sistemi biometrici e",
           "choices": [
             {
@@ -2483,7 +2465,7 @@
           ]
         },
         {
-          "id": "quiz5_q8",
+          "id": "quiz2_q63",
           "text": "La presenza di vibrazioni in un’applicazione biometrica",
           "choices": [
             {
@@ -2504,7 +2486,7 @@
           ]
         },
         {
-          "id": "quiz5_q9",
+          "id": "quiz2_q64",
           "text": "La definizione “sistema di lenti multiple nel quale la lunghezza focale può variare”, a quale sistema di riferisce?",
           "choices": [
             {
@@ -2525,7 +2507,7 @@
           ]
         },
         {
-          "id": "quiz5_q10",
+          "id": "quiz2_q65",
           "text": "I sensori CMOS e CCD sono praticamente equivalenti in campo biometrico dal punto di vista della qualità delle immagini",
           "choices": [
             {
@@ -2544,9 +2526,15 @@
           "correctIndexes": [
             3
           ]
-        },
+        }
+      ]
+    },
+    {
+      "id": "quiz3",
+      "title": "Set 3 (65 domande)",
+      "questions": [
         {
-          "id": "quiz5_q11",
+          "id": "quiz3_q1",
           "text": "Un sistema per il riconoscimento dell’iride",
           "choices": [
             {
@@ -2567,7 +2555,7 @@
           ]
         },
         {
-          "id": "quiz5_q12",
+          "id": "quiz3_q2",
           "text": "Quale di queste applicazioni di sicurezza necessita del più alto frame rate nel sistema di visione?",
           "choices": [
             {
@@ -2588,7 +2576,7 @@
           ]
         },
         {
-          "id": "quiz5_q13",
+          "id": "quiz3_q3",
           "text": "Con un sistema ottico ad 1 lente è possibile",
           "choices": [
             {
@@ -2609,7 +2597,7 @@
           ]
         },
         {
-          "id": "quiz5_q14",
+          "id": "quiz3_q4",
           "text": "Quali delle affermazioni che seguono è la più corretta",
           "choices": [
             {
@@ -2630,7 +2618,7 @@
           ]
         },
         {
-          "id": "quiz5_q15",
+          "id": "quiz3_q5",
           "text": "Nel calcolo della distanza di matching fra due iriscode A e B usando le relative maschere MA e MB, si ha",
           "choices": [
             {
@@ -2651,7 +2639,7 @@
           ]
         },
         {
-          "id": "quiz5_q16",
+          "id": "quiz3_q6",
           "text": "Le feature biometriche estratte dalla voce per fare identificazione sono estratte tipicamente esaminando l’energia del segnale in particolari bande dello spettro sonoro",
           "choices": [
             {
@@ -2672,7 +2660,7 @@
           ]
         },
         {
-          "id": "quiz5_q17",
+          "id": "quiz3_q7",
           "text": "Il sistema AFIS italiano contiene impronte di circa 750.000 persone schedate ed esclusivamente da scene del crimine",
           "choices": [
             {
@@ -2693,7 +2681,7 @@
           ]
         },
         {
-          "id": "quiz5_q18",
+          "id": "quiz3_q8",
           "text": "I filtraggi adattivi maggiormente applicati per le impronte digitali sono i filtri di Moiré",
           "choices": [
             {
@@ -2714,7 +2702,7 @@
           ]
         },
         {
-          "id": "quiz5_q19",
+          "id": "quiz3_q9",
           "text": "Il riconoscimento tramite l’iride produrre seri problemi di privacy per via della elevata accuratezza e la velocità con il quale può essere eseguito il matching fra due template",
           "choices": [
             {
@@ -2732,7 +2720,7 @@
           ]
         },
         {
-          "id": "quiz5_q20",
+          "id": "quiz3_q10",
           "text": "La tecnologia di riconoscimento biometrico basata sull’iride",
           "choices": [
             {
@@ -2753,7 +2741,7 @@
           ]
         },
         {
-          "id": "quiz5_q21",
+          "id": "quiz3_q11",
           "text": "La tecnica di Direct Gray Extraction si applica",
           "choices": [
             {
@@ -2774,7 +2762,7 @@
           ]
         },
         {
-          "id": "quiz5_q22",
+          "id": "quiz3_q12",
           "text": "Alimentare la profondità di campo di fuoco di un sistema critico per la detezione della impronta a contatto mediante la chiusura del diaframma",
           "choices": [
             {
@@ -2795,7 +2783,7 @@
           ]
         },
         {
-          "id": "quiz5_q23",
+          "id": "quiz3_q13",
           "text": "È possibile creare un sistema biometrico per l’iride completo di tutte le parti ottiche miniaturizzato in pochi millimetri",
           "choices": [
             {
@@ -2816,7 +2804,7 @@
           ]
         },
         {
-          "id": "quiz5_q24",
+          "id": "quiz3_q14",
           "text": "La funzione di “high dynamic range” in un sistema di visione serve per aumentare via software la risoluzione del sensore stesso",
           "choices": [
             {
@@ -2837,7 +2825,7 @@
           ]
         },
         {
-          "id": "quiz5_q25",
+          "id": "quiz3_q15",
           "text": "La biometria del volto non può essere realizzata attraverso filtri ottici che permettono analisi su bande ottiche diverse",
           "choices": [
             {
@@ -2858,7 +2846,7 @@
           ]
         },
         {
-          "id": "quiz5_q26",
+          "id": "quiz3_q16",
           "text": "Il valore della focale della lente principale di un sistema biometrico",
           "choices": [
             {
@@ -2879,7 +2867,7 @@
           ]
         },
         {
-          "id": "quiz5_q27",
+          "id": "quiz3_q17",
           "text": "I sistemi più moderni basati su tecnologie ottiche per il palmo riescono a funzionare",
           "choices": [
             {
@@ -2900,7 +2888,7 @@
           ]
         },
         {
-          "id": "quiz5_q28",
+          "id": "quiz3_q18",
           "text": "Se un sistema ottico per la biometria contiene una magnificazione ottica ed una digitale, quale è meglio preferire?",
           "choices": [
             {
@@ -2921,7 +2909,7 @@
           ]
         },
         {
-          "id": "quiz5_q29",
+          "id": "quiz3_q19",
           "text": "Differenza di luce improvvisa nella scena acquisita possono provocare problemi di acquisizione nei sensori CMOS temporal aliasing",
           "choices": [
             {
@@ -2942,7 +2930,7 @@
           ]
         },
         {
-          "id": "quiz5_q30",
+          "id": "quiz3_q20",
           "text": "Il flusso ottico nei sistemi biometrici",
           "choices": [
             {
@@ -2961,15 +2949,9 @@
           "correctIndexes": [
             3
           ]
-        }
-      ]
-    },
-    {
-      "id": "quiz6",
-      "title": "Complementi di biometria - Parte 6",
-      "questions": [
+        },
         {
-          "id": "quiz6_q1",
+          "id": "quiz3_q21",
           "text": "La valutazione della stima dell’errore del sistema biometrico a partire da valori ottenuti di matching tra immagini di impostori e genuini",
           "choices": [
             {
@@ -2990,7 +2972,7 @@
           ]
         },
         {
-          "id": "quiz6_q2",
+          "id": "quiz3_q22",
           "text": "Le soluzioni di protezione della privacy degli utenti mediante crittosistemi biometrici sono",
           "choices": [
             {
@@ -3011,7 +2993,7 @@
           ]
         },
         {
-          "id": "quiz6_q3",
+          "id": "quiz3_q23",
           "text": "La detezione automatica delle micro-espressioni",
           "choices": [
             {
@@ -3032,7 +3014,7 @@
           ]
         },
         {
-          "id": "quiz6_q4",
+          "id": "quiz3_q24",
           "text": "Avendo un insieme di M*N immagini di volti composto da M=2 immagini dello stesso individuo e N=100 individui, quale è il numero di comparazioni di impostori che è possibile realizzare?",
           "choices": [
             {
@@ -3056,7 +3038,7 @@
           ]
         },
         {
-          "id": "quiz6_q5",
+          "id": "quiz3_q25",
           "text": "Per una maggiore nitidezza dei ridge di palmi ed impronte senza contatto è meglio usare una illuminazione:",
           "choices": [
             {
@@ -3074,7 +3056,7 @@
           ]
         },
         {
-          "id": "quiz6_q6",
+          "id": "quiz3_q26",
           "text": "Tenendo conto della definizione impiegata nel documento ’Best Practices in Testing and Reporting Performance of Biometric Devices’ esaminato a lezione, quale è la sequenza più corretta di esecuzione delle strategie di valutazione?",
           "choices": [
             {
@@ -3095,7 +3077,7 @@
           ]
         },
         {
-          "id": "quiz6_q7",
+          "id": "quiz3_q27",
           "text": "Avendo un insieme di M*N immagini di volti composto da M=2 immagini dello stesso individuo e N=100 individui, quale è il numero di comparazioni di genuini che è possibile realizzare?",
           "choices": [
             {
@@ -3119,7 +3101,7 @@
           ]
         },
         {
-          "id": "quiz6_q8",
+          "id": "quiz3_q28",
           "text": "Fra gli approcci per il singolo frame di un attacco deepfake, quali di queste tecniche possono essere impiegate:",
           "choices": [
             {
@@ -3143,7 +3125,7 @@
           ]
         },
         {
-          "id": "quiz6_q9",
+          "id": "quiz3_q29",
           "text": "Si considerino questi due esempi di tecniche di difesa contro i deepfake: \n- Valutazione del flusso ottico del movimento delle labbra tra due fotogrammi nei quali è stato richiesto all’utente di parlare \n- Pronunciare una sequenza di numeri dati e casuali durante il video di riconoscimento\nEsse rappresentano:",
           "choices": [
             {
@@ -3167,7 +3149,7 @@
           ]
         },
         {
-          "id": "quiz6_q10",
+          "id": "quiz3_q30",
           "text": "Cosa sono i bins?",
           "choices": [
             {
@@ -3182,7 +3164,7 @@
           ]
         },
         {
-          "id": "quiz6_q11",
+          "id": "quiz3_q31",
           "text": "Un sistema basato su 2 impronte con arch e loop, quanti bins avremo?",
           "choices": [
             {
@@ -3197,7 +3179,7 @@
           ]
         },
         {
-          "id": "quiz6_q12",
+          "id": "quiz3_q32",
           "text": "Cosa è il binning error?",
           "choices": [
             {
@@ -3212,7 +3194,7 @@
           ]
         },
         {
-          "id": "quiz6_q13",
+          "id": "quiz3_q33",
           "text": "Avere N bin Porta ad avere un Pentration rate di N/100?",
           "choices": [
             {
@@ -3227,7 +3209,7 @@
           ]
         },
         {
-          "id": "quiz6_q14",
+          "id": "quiz3_q34",
           "text": "Come digitalizza le foto l’FBI?",
           "choices": [
             {
@@ -3242,7 +3224,7 @@
           ]
         },
         {
-          "id": "quiz6_q15",
+          "id": "quiz3_q35",
           "text": "A livello I delle impronte digitale cosa si può osservare?",
           "choices": [
             {
@@ -3260,7 +3242,7 @@
           ]
         },
         {
-          "id": "quiz6_q16",
+          "id": "quiz3_q36",
           "text": "A livello II delle impronte digitale cosa si può osservare?",
           "choices": [
             {
@@ -3278,7 +3260,7 @@
           ]
         },
         {
-          "id": "quiz6_q17",
+          "id": "quiz3_q37",
           "text": "A livello III delle impronte digitale cosa si può osservare?",
           "choices": [
             {
@@ -3296,7 +3278,7 @@
           ]
         },
         {
-          "id": "quiz6_q18",
+          "id": "quiz3_q38",
           "text": "Quanti DPI occorrono per vedere le caratteristiche del livello III?",
           "choices": [
             {
@@ -3314,7 +3296,7 @@
           ]
         },
         {
-          "id": "quiz6_q19",
+          "id": "quiz3_q39",
           "text": "Quali sono i passaggi per l’estrazione delle feature?",
           "choices": [
             {
@@ -3326,7 +3308,7 @@
           ]
         },
         {
-          "id": "quiz6_q20",
+          "id": "quiz3_q40",
           "text": "Cosa è il ridge count?",
           "choices": [
             {
@@ -3347,7 +3329,7 @@
           ]
         },
         {
-          "id": "quiz6_q21",
+          "id": "quiz3_q41",
           "text": "Di quale livello è considerata la ridge counting?",
           "choices": [
             {
@@ -3365,7 +3347,7 @@
           ]
         },
         {
-          "id": "quiz6_q22",
+          "id": "quiz3_q42",
           "text": "Cosa è la ridge frequency?",
           "choices": [
             {
@@ -3383,7 +3365,7 @@
           ]
         },
         {
-          "id": "quiz6_q23",
+          "id": "quiz3_q43",
           "text": "Quanti DPI servono per acquisire le impronte digitali con AFIS",
           "choices": [
             {
@@ -3401,7 +3383,7 @@
           ]
         },
         {
-          "id": "quiz6_q24",
+          "id": "quiz3_q44",
           "text": "Quale è la migliore luce per acquisire l’iride?",
           "choices": [
             {
@@ -3419,7 +3401,7 @@
           ]
         },
         {
-          "id": "quiz6_q25",
+          "id": "quiz3_q45",
           "text": "Per catturare i dettagli dell’iride, con quanti pixel il sistema deve poterlo acquisire?",
           "choices": [
             {
@@ -3437,7 +3419,7 @@
           ]
         },
         {
-          "id": "quiz6_q26",
+          "id": "quiz3_q46",
           "text": "Quali sensori si usano per acquisire l’iride?",
           "choices": [
             {
@@ -3455,7 +3437,7 @@
           ]
         },
         {
-          "id": "quiz6_q27",
+          "id": "quiz3_q47",
           "text": "Quale è la banda di illuminazione migliore per l’iride?",
           "choices": [
             {
@@ -3476,7 +3458,7 @@
           ]
         },
         {
-          "id": "quiz6_q28",
+          "id": "quiz3_q48",
           "text": "Che tipo di telecamere si usano per l’iride?",
           "choices": [
             {
@@ -3494,7 +3476,7 @@
           ]
         },
         {
-          "id": "quiz6_q29",
+          "id": "quiz3_q49",
           "text": "Quanti colori può riconoscere l’occhio umano?",
           "choices": [
             {
@@ -3512,7 +3494,7 @@
           ]
         },
         {
-          "id": "quiz6_q30",
+          "id": "quiz3_q50",
           "text": "Gli algoritmi di enhancement (aumento), esaltano le differenze di rumore?",
           "choices": [
             {
@@ -3528,15 +3510,9 @@
           "correctIndexes": [
             0
           ]
-        }
-      ]
-    },
-    {
-      "id": "quiz7",
-      "title": "Complementi di biometria - Parte 7",
-      "questions": [
+        },
         {
-          "id": "quiz7_q1",
+          "id": "quiz3_q51",
           "text": "Con 8 bit/ grigio quali tratti posso catturare?",
           "choices": [
             {
@@ -3554,7 +3530,7 @@
           ]
         },
         {
-          "id": "quiz7_q2",
+          "id": "quiz3_q52",
           "text": "Quanti bit occorrrono per avere una vein pattern?",
           "choices": [
             {
@@ -3572,7 +3548,7 @@
           ]
         },
         {
-          "id": "quiz7_q3",
+          "id": "quiz3_q53",
           "text": "Il sensore CCD, Charge-Coupled Device, (dispositivo di carica accoppiata), che tipo di funzionamento hanno?",
           "choices": [
             {
@@ -3590,7 +3566,7 @@
           ]
         },
         {
-          "id": "quiz7_q4",
+          "id": "quiz3_q54",
           "text": "Come funziona un sensore CMOS, Complementary Metal-Oxide Semiconductor (Semiconduttore complementare ossido di metallo)?",
           "choices": [
             {
@@ -3608,7 +3584,7 @@
           ]
         },
         {
-          "id": "quiz7_q5",
+          "id": "quiz3_q55",
           "text": "Cosa servono le microlenti sopra il fotodettetore?",
           "choices": [
             {
@@ -3626,7 +3602,7 @@
           ]
         },
         {
-          "id": "quiz7_q6",
+          "id": "quiz3_q56",
           "text": "In quale sensore avviene il rolling shutter?",
           "choices": [
             {
@@ -3644,7 +3620,7 @@
           ]
         },
         {
-          "id": "quiz7_q7",
+          "id": "quiz3_q57",
           "text": "In cosa consiste il rolling shutter?",
           "choices": [
             {
@@ -3659,7 +3635,7 @@
           ]
         },
         {
-          "id": "quiz7_q8",
+          "id": "quiz3_q58",
           "text": "In cosa consiste il Wobble (jello effect)?",
           "choices": [
             {
@@ -3674,7 +3650,7 @@
           ]
         },
         {
-          "id": "quiz7_q9",
+          "id": "quiz3_q59",
           "text": "Quando appare il il Wobble (jello effect)?",
           "choices": [
             {
@@ -3689,7 +3665,7 @@
           ]
         },
         {
-          "id": "quiz7_q10",
+          "id": "quiz3_q60",
           "text": "Cosa è la skew?",
           "choices": [
             {
@@ -3704,7 +3680,7 @@
           ]
         },
         {
-          "id": "quiz7_q11",
+          "id": "quiz3_q61",
           "text": "Cosa è lo spatial aliasing?",
           "choices": [
             {
@@ -3719,7 +3695,7 @@
           ]
         },
         {
-          "id": "quiz7_q12",
+          "id": "quiz3_q62",
           "text": "Cosa è il temporal aliasing?",
           "choices": [
             {
@@ -3734,7 +3710,7 @@
           ]
         },
         {
-          "id": "quiz7_q13",
+          "id": "quiz3_q63",
           "text": "L’illuminazione fluorescente causa problemi di temporal aliasing?",
           "choices": [
             {
@@ -3749,7 +3725,7 @@
           ]
         },
         {
-          "id": "quiz7_q14",
+          "id": "quiz3_q64",
           "text": "I sensori ottici standard film frame che misura hanno?",
           "choices": [
             {
@@ -3767,7 +3743,7 @@
           ]
         },
         {
-          "id": "quiz7_q15",
+          "id": "quiz3_q65",
           "text": "Nel involucro del sensore CMOS, a cosa serve l’elemento piezoeletrico?",
           "choices": [
             {
@@ -3783,9 +3759,15 @@
           "correctIndexes": [
             0
           ]
-        },
+        }
+      ]
+    },
+    {
+      "id": "quiz4",
+      "title": "Set 4 (65 domande)",
+      "questions": [
         {
-          "id": "quiz7_q16",
+          "id": "quiz4_q1",
           "text": "A cosa serve un low pass filtro, chiamato anche anti-aliasing o “blur”(sfocatura)?",
           "choices": [
             {
@@ -3803,7 +3785,7 @@
           ]
         },
         {
-          "id": "quiz7_q17",
+          "id": "quiz4_q2",
           "text": "Cosa è il Moire pattern?",
           "choices": [
             {
@@ -3818,7 +3800,7 @@
           ]
         },
         {
-          "id": "quiz7_q18",
+          "id": "quiz4_q3",
           "text": "A cosa servono i filtri ottici?",
           "choices": [
             {
@@ -3836,7 +3818,7 @@
           ]
         },
         {
-          "id": "quiz7_q19",
+          "id": "quiz4_q4",
           "text": "Attraverso il filtro polarizzatore in una immagine è possibile vedere il riflesso?",
           "choices": [
             {
@@ -3854,7 +3836,7 @@
           ]
         },
         {
-          "id": "quiz7_q20",
+          "id": "quiz4_q5",
           "text": "A cosa serve l’uso del filtro polarizzatore in biometria?",
           "choices": [
             {
@@ -3869,7 +3851,7 @@
           ]
         },
         {
-          "id": "quiz7_q21",
+          "id": "quiz4_q6",
           "text": "A cosa serve un filtro multi banda?",
           "choices": [
             {
@@ -3884,7 +3866,7 @@
           ]
         },
         {
-          "id": "quiz7_q22",
+          "id": "quiz4_q7",
           "text": "I canali RGB possono essere usati come filtri?",
           "choices": [
             {
@@ -3902,7 +3884,7 @@
           ]
         },
         {
-          "id": "quiz7_q23",
+          "id": "quiz4_q8",
           "text": "Rimuovendo il filtro no IR si ottiene un sensore utile in vicino infrarosso?",
           "choices": [
             {
@@ -3920,7 +3902,7 @@
           ]
         },
         {
-          "id": "quiz7_q24",
+          "id": "quiz4_q9",
           "text": "Il filtro cut-off scambiatore IR con attacco obiettivo integrato consente il vero funzionamento diurno / notturno (TDN) con i chipset DPS Pixim?",
           "choices": [
             {
@@ -3938,7 +3920,7 @@
           ]
         },
         {
-          "id": "quiz7_q25",
+          "id": "quiz4_q10",
           "text": "Sensore di imaging multispettrale ha funzionalità di sicurezza avanzate?",
           "choices": [
             {
@@ -3953,7 +3935,7 @@
           ]
         },
         {
-          "id": "quiz7_q26",
+          "id": "quiz4_q11",
           "text": "Sensore di imaging multispettrale fino a che profondità può scansionare?",
           "choices": [
             {
@@ -3971,7 +3953,7 @@
           ]
         },
         {
-          "id": "quiz7_q27",
+          "id": "quiz4_q12",
           "text": "A cosa servono le lenti",
           "choices": [
             {
@@ -3989,7 +3971,7 @@
           ]
         },
         {
-          "id": "quiz7_q28",
+          "id": "quiz4_q13",
           "text": "Cosa è la profondità di campo?",
           "choices": [
             {
@@ -4004,7 +3986,7 @@
           ]
         },
         {
-          "id": "quiz7_q29",
+          "id": "quiz4_q14",
           "text": "Quando una immagine è sufficientemente ben messa a fuoco?",
           "choices": [
             {
@@ -4019,7 +4001,7 @@
           ]
         },
         {
-          "id": "quiz7_q30",
+          "id": "quiz4_q15",
           "text": "Quali sono i problemi con le lenti?",
           "choices": [
             {
@@ -4035,15 +4017,9 @@
           "correctIndexes": [
             0
           ]
-        }
-      ]
-    },
-    {
-      "id": "quiz8",
-      "title": "Complementi di biometria - Parte 8",
-      "questions": [
+        },
         {
-          "id": "quiz8_q1",
+          "id": "quiz4_q16",
           "text": "Come si può rimediare all’aberrazione sferica?",
           "choices": [
             {
@@ -4061,7 +4037,7 @@
           ]
         },
         {
-          "id": "quiz8_q2",
+          "id": "quiz4_q17",
           "text": "Come sono composte le lenti liquide?",
           "choices": [
             {
@@ -4073,7 +4049,7 @@
           ]
         },
         {
-          "id": "quiz8_q3",
+          "id": "quiz4_q18",
           "text": "Con le lenti liquide a che velocità si può regolare diaframma e magnificazione?",
           "choices": [
             {
@@ -4091,7 +4067,7 @@
           ]
         },
         {
-          "id": "quiz8_q4",
+          "id": "quiz4_q19",
           "text": "Quale è il campo di fuoco delle lenti liquide?",
           "choices": [
             {
@@ -4109,7 +4085,7 @@
           ]
         },
         {
-          "id": "quiz8_q5",
+          "id": "quiz4_q20",
           "text": "Nel magnificazione a 2 lenti, come avviene la procedura?",
           "choices": [
             {
@@ -4127,7 +4103,7 @@
           ]
         },
         {
-          "id": "quiz8_q6",
+          "id": "quiz4_q21",
           "text": "Cosa è lo zoom?",
           "choices": [
             {
@@ -4145,7 +4121,7 @@
           ]
         },
         {
-          "id": "quiz8_q7",
+          "id": "quiz4_q22",
           "text": "Lo zoom è utile in tutte le applicazioni di sicurezza?",
           "choices": [
             {
@@ -4163,7 +4139,7 @@
           ]
         },
         {
-          "id": "quiz8_q8",
+          "id": "quiz4_q23",
           "text": "Nello zoom ottico la lunghezza focale può variare?",
           "choices": [
             {
@@ -4181,7 +4157,7 @@
           ]
         },
         {
-          "id": "quiz8_q9",
+          "id": "quiz4_q24",
           "text": "Lo zoom ottico ingrandisce?",
           "choices": [
             {
@@ -4202,7 +4178,7 @@
           ]
         },
         {
-          "id": "quiz8_q10",
+          "id": "quiz4_q25",
           "text": "Lo Zoom digitale ingrandisce",
           "choices": [
             {
@@ -4223,7 +4199,7 @@
           ]
         },
         {
-          "id": "quiz8_q11",
+          "id": "quiz4_q26",
           "text": "Quali sono i parametri per leggere lo zoom?",
           "choices": [
             {
@@ -4241,7 +4217,7 @@
           ]
         },
         {
-          "id": "quiz8_q12",
+          "id": "quiz4_q27",
           "text": "Quali sono i parametri di misurazione dell’escursione focale nello zoom?",
           "choices": [
             {
@@ -4259,7 +4235,7 @@
           ]
         },
         {
-          "id": "quiz8_q13",
+          "id": "quiz4_q28",
           "text": "Quali sono i parametri di luminosità dell’obbiettivo nello zoom?",
           "choices": [
             {
@@ -4277,7 +4253,7 @@
           ]
         },
         {
-          "id": "quiz8_q14",
+          "id": "quiz4_q29",
           "text": "Quali sono i parametri di ingrandimento nello zoom?",
           "choices": [
             {
@@ -4295,7 +4271,7 @@
           ]
         },
         {
-          "id": "quiz8_q15",
+          "id": "quiz4_q30",
           "text": "Fino a quanto possono arrivare le focali di arrivo?",
           "choices": [
             {
@@ -4313,7 +4289,7 @@
           ]
         },
         {
-          "id": "quiz8_q16",
+          "id": "quiz4_q31",
           "text": "Le lenti liquide possono essere utilizzate nella video sorveglianza?",
           "choices": [
             {
@@ -4331,7 +4307,7 @@
           ]
         },
         {
-          "id": "quiz8_q17",
+          "id": "quiz4_q32",
           "text": "Le lenti liquide possono essere utilizzate nella biometria senza contatto?",
           "choices": [
             {
@@ -4349,7 +4325,7 @@
           ]
         },
         {
-          "id": "quiz8_q18",
+          "id": "quiz4_q33",
           "text": "Un’obbiettivo per una fotocamera può contenere fino a 15 elementi?",
           "choices": [
             {
@@ -4370,7 +4346,7 @@
           ]
         },
         {
-          "id": "quiz8_q19",
+          "id": "quiz4_q34",
           "text": "Nell’impronta contactless (senza contatto), cosa è possibile osservare?",
           "choices": [
             {
@@ -4388,7 +4364,7 @@
           ]
         },
         {
-          "id": "quiz8_q20",
+          "id": "quiz4_q35",
           "text": "L’autofocus aggiunge informazione all’immagine?",
           "choices": [
             {
@@ -4406,7 +4382,7 @@
           ]
         },
         {
-          "id": "quiz8_q21",
+          "id": "quiz4_q36",
           "text": "Nel galaxy S9 della samsung, Una lente della fotocamera consente allo scanner dell’iride di riconoscere facilmente gli utenti con gli occhiali o quando si trovano in un ambiente troppo buio o troppo scuro?",
           "choices": [
             {
@@ -4424,7 +4400,7 @@
           ]
         },
         {
-          "id": "quiz8_q22",
+          "id": "quiz4_q37",
           "text": "L’obbiettivo di un drone può avere lenti asferiche?",
           "choices": [
             {
@@ -4442,7 +4418,7 @@
           ]
         },
         {
-          "id": "quiz8_q23",
+          "id": "quiz4_q38",
           "text": "La quantità di luce catturata da un obiettivo:",
           "choices": [
             {
@@ -4460,7 +4436,7 @@
           ]
         },
         {
-          "id": "quiz8_q24",
+          "id": "quiz4_q39",
           "text": "Se due fotocamere di dimensioni e lunghezze focali diverse hanno lo stesso angolo di visione e la stessa area di apertura, raccolgono la stessa quantità di luce dalla scena",
           "choices": [
             {
@@ -4475,7 +4451,7 @@
           ]
         },
         {
-          "id": "quiz8_q25",
+          "id": "quiz4_q40",
           "text": "L’obbiettivo a fuoco di una distanza di 1, 5, 20 metri, l’apertura del diaframma e la lunghezza focale cambia?",
           "choices": [
             {
@@ -4490,7 +4466,7 @@
           ]
         },
         {
-          "id": "quiz8_q26",
+          "id": "quiz4_q41",
           "text": "In fotografia, Cosa è uno stop?",
           "choices": [
             {
@@ -4508,7 +4484,7 @@
           ]
         },
         {
-          "id": "quiz8_q27",
+          "id": "quiz4_q42",
           "text": "Gli stops dipendono da:",
           "choices": [
             {
@@ -4526,7 +4502,7 @@
           ]
         },
         {
-          "id": "quiz8_q28",
+          "id": "quiz4_q43",
           "text": "Quale è l’effetto del teleobbiettivo?",
           "choices": [
             {
@@ -4541,7 +4517,7 @@
           ]
         },
         {
-          "id": "quiz8_q29",
+          "id": "quiz4_q44",
           "text": "È possibile compensare la distanza con focale ma senza deformazioni?",
           "choices": [
             {
@@ -4556,7 +4532,7 @@
           ]
         },
         {
-          "id": "quiz8_q30",
+          "id": "quiz4_q45",
           "text": "Per la sorveglienza quale focale serve?",
           "choices": [
             {
@@ -4575,15 +4551,9 @@
           "correctIndexes": [
             1
           ]
-        }
-      ]
-    },
-    {
-      "id": "quiz9",
-      "title": "Complementi di biometria - Parte 9",
-      "questions": [
+        },
         {
-          "id": "quiz9_q1",
+          "id": "quiz4_q46",
           "text": "Per la sorveglienza con volto quale focale serve?",
           "choices": [
             {
@@ -4604,7 +4574,7 @@
           ]
         },
         {
-          "id": "quiz9_q2",
+          "id": "quiz4_q47",
           "text": "Per riconoscere il volto quale focale serve?",
           "choices": [
             {
@@ -4625,7 +4595,7 @@
           ]
         },
         {
-          "id": "quiz9_q3",
+          "id": "quiz4_q48",
           "text": "Per l’iride quale focale serve?",
           "choices": [
             {
@@ -4646,7 +4616,7 @@
           ]
         },
         {
-          "id": "quiz9_q4",
+          "id": "quiz4_q49",
           "text": "Un sistema biometrico vede come un umano?",
           "choices": [
             {
@@ -4661,7 +4631,7 @@
           ]
         },
         {
-          "id": "quiz9_q5",
+          "id": "quiz4_q50",
           "text": "Quanti megapixel può avere lo zoom di una videocamera?",
           "choices": [
             {
@@ -4679,7 +4649,7 @@
           ]
         },
         {
-          "id": "quiz9_q6",
+          "id": "quiz4_q51",
           "text": "Il ROI (Region of interest), può migliorare:",
           "choices": [
             {
@@ -4697,7 +4667,7 @@
           ]
         },
         {
-          "id": "quiz9_q7",
+          "id": "quiz4_q52",
           "text": "Come viene impostato il ROI?",
           "choices": [
             {
@@ -4715,7 +4685,7 @@
           ]
         },
         {
-          "id": "quiz9_q8",
+          "id": "quiz4_q53",
           "text": "Cosa è Intervallo dinamico (o range dinamico, dall’inglese dynamic range)?",
           "choices": [
             {
@@ -4733,7 +4703,7 @@
           ]
         },
         {
-          "id": "quiz9_q9",
+          "id": "quiz4_q54",
           "text": "Quanti DB servono per vedere un volto in ogni condizione? /La fotocamera panasonic con il super dynamic range a quanti DB può arrivare?",
           "choices": [
             {
@@ -4751,7 +4721,7 @@
           ]
         },
         {
-          "id": "quiz9_q10",
+          "id": "quiz4_q55",
           "text": "L’esposizione Multipla (multiple exposure) permette esposizione di sole e ombre?",
           "choices": [
             {
@@ -4769,7 +4739,7 @@
           ]
         },
         {
-          "id": "quiz9_q11",
+          "id": "quiz4_q56",
           "text": "L’esposizione Multipla (multiple exposure) permette illuminazione notturna",
           "choices": [
             {
@@ -4787,7 +4757,7 @@
           ]
         },
         {
-          "id": "quiz9_q12",
+          "id": "quiz4_q57",
           "text": "L’esposizione Multipla (multiple exposure) permette di riprendere più soggetti?",
           "choices": [
             {
@@ -4805,7 +4775,7 @@
           ]
         },
         {
-          "id": "quiz9_q13",
+          "id": "quiz4_q58",
           "text": "L’esposizione Multipla (multiple exposure) permette una Simultanea acquisizione di due immagini con diverso tempo di esposizione (exposure time)?",
           "choices": [
             {
@@ -4823,7 +4793,7 @@
           ]
         },
         {
-          "id": "quiz9_q14",
+          "id": "quiz4_q59",
           "text": "A cosa serve l’HDR (High Dynamic Range)?",
           "choices": [
             {
@@ -4841,7 +4811,7 @@
           ]
         },
         {
-          "id": "quiz9_q15",
+          "id": "quiz4_q60",
           "text": "Quale è lo scopo del HDR?",
           "choices": [
             {
@@ -4856,7 +4826,7 @@
           ]
         },
         {
-          "id": "quiz9_q16",
+          "id": "quiz4_q61",
           "text": "Nella multi integration mode è possibile riprendere oggetti in veloce movimento?",
           "choices": [
             {
@@ -4874,7 +4844,7 @@
           ]
         },
         {
-          "id": "quiz9_q17",
+          "id": "quiz4_q62",
           "text": "Nella multi integration mode, l’analisi della velocità di cosa tiene conto?",
           "choices": [
             {
@@ -4892,7 +4862,7 @@
           ]
         },
         {
-          "id": "quiz9_q18",
+          "id": "quiz4_q63",
           "text": "Nella fotografia Macro, Il pacchetto di circuiti integrati, quanto è più alto, rispetto al circuitocircuito su cui è montato?",
           "choices": [
             {
@@ -4910,7 +4880,7 @@
           ]
         },
         {
-          "id": "quiz9_q19",
+          "id": "quiz4_q64",
           "text": "Nelle macro a F/32, ogni oggetto è all’interno del DOF?",
           "choices": [
             {
@@ -4925,7 +4895,7 @@
           ]
         },
         {
-          "id": "quiz9_q20",
+          "id": "quiz4_q65",
           "text": "A F/32 le scritte sul pacchetto IC sono notevolmente più morbide di quelle in f / 5?",
           "choices": [
             {
@@ -4941,9 +4911,15 @@
           "correctIndexes": [
             0
           ]
-        },
+        }
+      ]
+    },
+    {
+      "id": "quiz5",
+      "title": "Set 5 (65 domande)",
+      "questions": [
         {
-          "id": "quiz9_q21",
+          "id": "quiz5_q1",
           "text": "Le immagini di una macro sono utili al riconoscimento delle impronte biometriche?",
           "choices": [
             {
@@ -4958,7 +4934,7 @@
           ]
         },
         {
-          "id": "quiz9_q22",
+          "id": "quiz5_q2",
           "text": "Il frame rate (frequenza fotogrammi )è utile come mezzo anti frode?",
           "choices": [
             {
@@ -4976,7 +4952,7 @@
           ]
         },
         {
-          "id": "quiz9_q23",
+          "id": "quiz5_q3",
           "text": "Le Video camere CCD soffrono del problema di jello effect o vibrazioni?",
           "choices": [
             {
@@ -4991,7 +4967,7 @@
           ]
         },
         {
-          "id": "quiz9_q24",
+          "id": "quiz5_q4",
           "text": "l’uso di luce verde aumenta la nitidezza dei ridge?",
           "choices": [
             {
@@ -5006,7 +4982,7 @@
           ]
         },
         {
-          "id": "quiz9_q25",
+          "id": "quiz5_q5",
           "text": "Cosa è l’inferenza statistica?",
           "choices": [
             {
@@ -5024,7 +5000,7 @@
           ]
         },
         {
-          "id": "quiz9_q26",
+          "id": "quiz5_q6",
           "text": "L’EER(eqal error rate), come viene considerato?",
           "choices": [
             {
@@ -5042,7 +5018,7 @@
           ]
         },
         {
-          "id": "quiz9_q27",
+          "id": "quiz5_q7",
           "text": "In biometria per misurare dei risultati, è meglio l’inferenza statistica o il calcolo delle probabilità?",
           "choices": [
             {
@@ -5063,7 +5039,7 @@
           ]
         },
         {
-          "id": "quiz9_q28",
+          "id": "quiz5_q8",
           "text": "Se non ho dati, per calcolare degli istogrammi, posso usare dei volontari?",
           "choices": [
             {
@@ -5084,7 +5060,7 @@
           ]
         },
         {
-          "id": "quiz9_q29",
+          "id": "quiz5_q9",
           "text": "Quando si verificano errori di FNM (false not match)?",
           "choices": [
             {
@@ -5105,7 +5081,7 @@
           ]
         },
         {
-          "id": "quiz9_q30",
+          "id": "quiz5_q10",
           "text": "Come viene calcolato il FNMR",
           "choices": [
             {
@@ -5124,15 +5100,9 @@
           "correctIndexes": [
             0
           ]
-        }
-      ]
-    },
-    {
-      "id": "quiz10",
-      "title": "Complementi di biometria - Parte 10",
-      "questions": [
+        },
         {
-          "id": "quiz10_q1",
+          "id": "quiz5_q11",
           "text": "Quando si verificano errori di false match?",
           "choices": [
             {
@@ -5153,7 +5123,7 @@
           ]
         },
         {
-          "id": "quiz10_q2",
+          "id": "quiz5_q12",
           "text": "Come viene calcolato il FMR?",
           "choices": [
             {
@@ -5174,7 +5144,7 @@
           ]
         },
         {
-          "id": "quiz10_q3",
+          "id": "quiz5_q13",
           "text": "FMR e FNMR possono essere considerate distribuzioni?",
           "choices": [
             {
@@ -5189,7 +5159,7 @@
           ]
         },
         {
-          "id": "quiz10_q4",
+          "id": "quiz5_q14",
           "text": "il numero di numero di persone appartenenti al gruppo dei genuini sono sotto la soglia T (FNR) deve essere calcolato come un integrale della porzione di curva dei genuini fino alla soglia T?",
           "choices": [
             {
@@ -5210,7 +5180,7 @@
           ]
         },
         {
-          "id": "quiz10_q5",
+          "id": "quiz5_q15",
           "text": "La curva DET e la curva ROC mostrano le stesse informazioni?",
           "choices": [
             {
@@ -5225,7 +5195,7 @@
           ]
         },
         {
-          "id": "quiz10_q6",
+          "id": "quiz5_q16",
           "text": "Come è definita la probabilità di errore?",
           "choices": [
             {
@@ -5243,7 +5213,7 @@
           ]
         },
         {
-          "id": "quiz10_q7",
+          "id": "quiz5_q17",
           "text": "Come possono essere I classificatori di riconoscimento in biometria?",
           "choices": [
             {
@@ -5261,7 +5231,7 @@
           ]
         },
         {
-          "id": "quiz10_q8",
+          "id": "quiz5_q18",
           "text": "Quale è la differenza tra classificatore binario e multiclasse?",
           "choices": [
             {
@@ -5282,7 +5252,7 @@
           ]
         },
         {
-          "id": "quiz10_q9",
+          "id": "quiz5_q19",
           "text": "Gli esperimenti / prove di bernoulli, i risultati delle prove sono indipendenti?",
           "choices": [
             {
@@ -5297,7 +5267,7 @@
           ]
         },
         {
-          "id": "quiz10_q10",
+          "id": "quiz5_q20",
           "text": "Le distribuzioni di Bernoulli, sono utili per DESCRIVE ERRORE in AUTENTICAZIONE e identificazione?",
           "choices": [
             {
@@ -5315,7 +5285,7 @@
           ]
         },
         {
-          "id": "quiz10_q11",
+          "id": "quiz5_q21",
           "text": "Nella binomiale di Bernoulli la distribuzione è continua?",
           "choices": [
             {
@@ -5333,7 +5303,7 @@
           ]
         },
         {
-          "id": "quiz10_q12",
+          "id": "quiz5_q22",
           "text": "Nella binomiale di Bernoulli se l’errore è basso, cosa avviene?",
           "choices": [
             {
@@ -5351,7 +5321,7 @@
           ]
         },
         {
-          "id": "quiz10_q13",
+          "id": "quiz5_q23",
           "text": "Cosa dice la regola dei 3",
           "choices": [
             {
@@ -5366,7 +5336,7 @@
           ]
         },
         {
-          "id": "quiz10_q14",
+          "id": "quiz5_q24",
           "text": "Quanto aumentano gli errori se uso un sistema di Verifica (FMR,FNMR) in modalità di Identificazione (FMRN,FNMRN)?",
           "choices": [
             {
@@ -5384,7 +5354,7 @@
           ]
         },
         {
-          "id": "quiz10_q15",
+          "id": "quiz5_q25",
           "text": "Cosa dice la regola dei 30?",
           "choices": [
             {
@@ -5402,7 +5372,7 @@
           ]
         },
         {
-          "id": "quiz10_q16",
+          "id": "quiz5_q26",
           "text": "È attualmente possibile Realizzare un Sistema di patter recongnition Che riconosca la Presenza di un Volto a OGNI tipo di immagine?",
           "choices": [
             {
@@ -5417,7 +5387,7 @@
           ]
         },
         {
-          "id": "quiz10_q17",
+          "id": "quiz5_q27",
           "text": "I Data Set Partitioning (partizioni di set di dati) a cosa servono?",
           "choices": [
             {
@@ -5435,7 +5405,7 @@
           ]
         },
         {
-          "id": "quiz10_q18",
+          "id": "quiz5_q28",
           "text": "Di quali problemi soffre il Data set partitioning?",
           "choices": [
             {
@@ -5453,7 +5423,7 @@
           ]
         },
         {
-          "id": "quiz10_q19",
+          "id": "quiz5_q29",
           "text": "Quando si verifica l’underfitting?",
           "choices": [
             {
@@ -5468,7 +5438,7 @@
           ]
         },
         {
-          "id": "quiz10_q20",
+          "id": "quiz5_q30",
           "text": "Quando si verifica l’Overfitting ?",
           "choices": [
             {
@@ -5483,7 +5453,7 @@
           ]
         },
         {
-          "id": "quiz10_q21",
+          "id": "quiz5_q31",
           "text": "Cosa può generare underfitting?",
           "choices": [
             {
@@ -5498,7 +5468,7 @@
           ]
         },
         {
-          "id": "quiz10_q22",
+          "id": "quiz5_q32",
           "text": "Cosa genera overfitting?",
           "choices": [
             {
@@ -5513,7 +5483,7 @@
           ]
         },
         {
-          "id": "quiz10_q23",
+          "id": "quiz5_q33",
           "text": "Cosa si può fare per evitare problemi di underfitting e overfitting?",
           "choices": [
             {
@@ -5531,7 +5501,7 @@
           ]
         },
         {
-          "id": "quiz10_q24",
+          "id": "quiz5_q34",
           "text": "Come avviene il K-FCV?",
           "choices": [
             {
@@ -5546,7 +5516,7 @@
           ]
         },
         {
-          "id": "quiz10_q25",
+          "id": "quiz5_q35",
           "text": "Quali sono il numero di partizioni più frequenti di K-FCV?",
           "choices": [
             {
@@ -5567,7 +5537,7 @@
           ]
         },
         {
-          "id": "quiz10_q26",
+          "id": "quiz5_q36",
           "text": "Il K-FCV stratificato cosa fa?",
           "choices": [
             {
@@ -5582,7 +5552,7 @@
           ]
         },
         {
-          "id": "quiz10_q27",
+          "id": "quiz5_q37",
           "text": "Come avviene il 5 x 2CV??",
           "choices": [
             {
@@ -5597,7 +5567,7 @@
           ]
         },
         {
-          "id": "quiz10_q28",
+          "id": "quiz5_q38",
           "text": "Come Avviene il LOO?",
           "choices": [
             {
@@ -5612,7 +5582,7 @@
           ]
         },
         {
-          "id": "quiz10_q29",
+          "id": "quiz5_q39",
           "text": "Come funziona il LOPO?",
           "choices": [
             {
@@ -5627,7 +5597,7 @@
           ]
         },
         {
-          "id": "quiz10_q30",
+          "id": "quiz5_q40",
           "text": "Il sistema biometrico può essere considerato come un classificatore?",
           "choices": [
             {
@@ -5640,15 +5610,9 @@
           "correctIndexes": [
             0
           ]
-        }
-      ]
-    },
-    {
-      "id": "quiz11",
-      "title": "Complementi di biometria - Parte 11",
-      "questions": [
+        },
         {
-          "id": "quiz11_q1",
+          "id": "quiz5_q41",
           "text": "Il sistema biometrico come viene mappato?",
           "choices": [
             {
@@ -5666,7 +5630,7 @@
           ]
         },
         {
-          "id": "quiz11_q2",
+          "id": "quiz5_q42",
           "text": "Le primitive biometriche come classificatori, per cosa possono essere usate?",
           "choices": [
             {
@@ -5681,7 +5645,7 @@
           ]
         },
         {
-          "id": "quiz11_q3",
+          "id": "quiz5_q43",
           "text": "Quali sono le component principali del Machine learning?",
           "choices": [
             {
@@ -5699,7 +5663,7 @@
           ]
         },
         {
-          "id": "quiz11_q4",
+          "id": "quiz5_q44",
           "text": "A cosa serve la valutazione nel Machine learning?",
           "choices": [
             {
@@ -5717,7 +5681,7 @@
           ]
         },
         {
-          "id": "quiz11_q5",
+          "id": "quiz5_q45",
           "text": "A cosa serve l’ottimizzazione nel Machine learning?",
           "choices": [
             {
@@ -5732,7 +5696,7 @@
           ]
         },
         {
-          "id": "quiz11_q6",
+          "id": "quiz5_q46",
           "text": "Nell’ottimizzazione del machine learning, come si riduce l’errore di apprendimento?",
           "choices": [
             {
@@ -5750,7 +5714,7 @@
           ]
         },
         {
-          "id": "quiz11_q7",
+          "id": "quiz5_q47",
           "text": "Quali tipi di apprendimento esistono?",
           "choices": [
             {
@@ -5771,7 +5735,7 @@
           ]
         },
         {
-          "id": "quiz11_q8",
+          "id": "quiz5_q48",
           "text": "Quali sono i tipi di apprendimimento nel machine learning?",
           "choices": [
             {
@@ -5789,7 +5753,7 @@
           ]
         },
         {
-          "id": "quiz11_q9",
+          "id": "quiz5_q49",
           "text": "Perché è raro usare metodi di apprendimento deduttivi?",
           "choices": [
             {
@@ -5807,7 +5771,7 @@
           ]
         },
         {
-          "id": "quiz11_q10",
+          "id": "quiz5_q50",
           "text": "Come funziona il reinforcement Learning?",
           "choices": [
             {
@@ -5825,7 +5789,7 @@
           ]
         },
         {
-          "id": "quiz11_q11",
+          "id": "quiz5_q51",
           "text": "Si può creare un agente bot con il reinforcement learning?",
           "choices": [
             {
@@ -5840,7 +5804,7 @@
           ]
         },
         {
-          "id": "quiz11_q12",
+          "id": "quiz5_q52",
           "text": "Il reinforcement learning può essere utilizzato per le impronte?",
           "choices": [
             {
@@ -5858,7 +5822,7 @@
           ]
         },
         {
-          "id": "quiz11_q13",
+          "id": "quiz5_q53",
           "text": "In cosa consiste il transfer learning?",
           "choices": [
             {
@@ -5876,7 +5840,7 @@
           ]
         },
         {
-          "id": "quiz11_q14",
+          "id": "quiz5_q54",
           "text": "In ordine commerciale quale avuto più successo nelle tipologie di apprendimento?",
           "choices": [
             {
@@ -5897,7 +5861,7 @@
           ]
         },
         {
-          "id": "quiz11_q15",
+          "id": "quiz5_q55",
           "text": "Il transfer learning permette di apprendere da simulazioni?",
           "choices": [
             {
@@ -5912,7 +5876,7 @@
           ]
         },
         {
-          "id": "quiz11_q16",
+          "id": "quiz5_q56",
           "text": "Il transfer leanring permette di classificare immagini?",
           "choices": [
             {
@@ -5927,7 +5891,7 @@
           ]
         },
         {
-          "id": "quiz11_q17",
+          "id": "quiz5_q57",
           "text": "Il transfer learning permette di estrarre e parsificare contenuti?",
           "choices": [
             {
@@ -5942,7 +5906,7 @@
           ]
         },
         {
-          "id": "quiz11_q18",
+          "id": "quiz5_q58",
           "text": "Quale è il workflow (flusso di lavoro/ciclo di vita) del machine learning?",
           "choices": [
             {
@@ -5963,7 +5927,7 @@
           ]
         },
         {
-          "id": "quiz11_q19",
+          "id": "quiz5_q59",
           "text": "Quale è il tasso di errore di riconoscimento vocale delle parole attuale?",
           "choices": [
             {
@@ -5984,7 +5948,7 @@
           ]
         },
         {
-          "id": "quiz11_q20",
+          "id": "quiz5_q60",
           "text": "Secondo Andrew Ng, quando avverrà l’interazione naturale con un computer?",
           "choices": [
             {
@@ -6002,7 +5966,7 @@
           ]
         },
         {
-          "id": "quiz11_q21",
+          "id": "quiz5_q61",
           "text": "È utile Forzare il modello di ML a imparare ad usare le caratteristiche discriminatorie generali (biometriche) fra gli individui e non caratteristiche singole caso per caso?",
           "choices": [
             {
@@ -6017,7 +5981,7 @@
           ]
         },
         {
-          "id": "quiz11_q22",
+          "id": "quiz5_q62",
           "text": "Quali sono le più famose tecniche di computational intellogence (CI)?",
           "choices": [
             {
@@ -6035,7 +5999,7 @@
           ]
         },
         {
-          "id": "quiz11_q23",
+          "id": "quiz5_q63",
           "text": "Come funziona un neurone nelle reti neurali?",
           "choices": [
             {
@@ -6053,7 +6017,7 @@
           ]
         },
         {
-          "id": "quiz11_q24",
+          "id": "quiz5_q64",
           "text": "Come funziona, la funzione in una rete neurale durante il suo allenamento?",
           "choices": [
             {
@@ -6068,7 +6032,7 @@
           ]
         },
         {
-          "id": "quiz11_q25",
+          "id": "quiz5_q65",
           "text": "Quale è la differenza tra machine learning e deep learning?",
           "choices": [
             {
@@ -6081,9 +6045,15 @@
           "correctIndexes": [
             0
           ]
-        },
+        }
+      ]
+    },
+    {
+      "id": "quiz6",
+      "title": "Set 6 (40 domande)",
+      "questions": [
         {
-          "id": "quiz11_q26",
+          "id": "quiz6_q1",
           "text": "Gli algoritmi genetici sono utili per ottimizzare i parametri di un sistema complesso?",
           "choices": [
             {
@@ -6098,7 +6068,7 @@
           ]
         },
         {
-          "id": "quiz11_q27",
+          "id": "quiz6_q2",
           "text": "Quale è la procedura degli algoritmi genetici?",
           "choices": [
             {
@@ -6110,7 +6080,7 @@
           ]
         },
         {
-          "id": "quiz11_q28",
+          "id": "quiz6_q3",
           "text": "Come funziona la logica Fuzzy (sfocata)?",
           "choices": [
             {
@@ -6125,7 +6095,7 @@
           ]
         },
         {
-          "id": "quiz11_q29",
+          "id": "quiz6_q4",
           "text": "Come vience calcolato L’output di un sistema fuzzy?",
           "choices": [
             {
@@ -6140,7 +6110,7 @@
           ]
         },
         {
-          "id": "quiz11_q30",
+          "id": "quiz6_q5",
           "text": "Su cosa è basato un sistema RBS (Sistemi basati su regole)?",
           "choices": [
             {
@@ -6153,15 +6123,9 @@
           "correctIndexes": [
             0
           ]
-        }
-      ]
-    },
-    {
-      "id": "quiz12",
-      "title": "Complementi di biometria - Parte 12",
-      "questions": [
+        },
         {
-          "id": "quiz12_q1",
+          "id": "quiz6_q6",
           "text": "Quali sono le componenti di una RBS?",
           "choices": [
             {
@@ -6176,7 +6140,7 @@
           ]
         },
         {
-          "id": "quiz12_q2",
+          "id": "quiz6_q7",
           "text": "Cosa è un agente software?",
           "choices": [
             {
@@ -6191,7 +6155,7 @@
           ]
         },
         {
-          "id": "quiz12_q3",
+          "id": "quiz6_q8",
           "text": "Da cosa è composto un agente software?",
           "choices": [
             {
@@ -6203,7 +6167,7 @@
           ]
         },
         {
-          "id": "quiz12_q4",
+          "id": "quiz6_q9",
           "text": "Gli Agenti intelligenti possono essere utilizzati per la gestione di complessità in biometria multimodale?",
           "choices": [
             {
@@ -6218,7 +6182,7 @@
           ]
         },
         {
-          "id": "quiz12_q5",
+          "id": "quiz6_q10",
           "text": "Gli Agenti intelligenti possono essere utilizzati per il riconoscimento della pupilla?",
           "choices": [
             {
@@ -6233,7 +6197,7 @@
           ]
         },
         {
-          "id": "quiz12_q6",
+          "id": "quiz6_q11",
           "text": "A cosa serve l’inference engine (motore dell’inferenza)?",
           "choices": [
             {
@@ -6245,7 +6209,7 @@
           ]
         },
         {
-          "id": "quiz12_q7",
+          "id": "quiz6_q12",
           "text": "un sistema neuro-fuzzy, quali e quanti livelli ha?",
           "choices": [
             {
@@ -6257,7 +6221,7 @@
           ]
         },
         {
-          "id": "quiz12_q8",
+          "id": "quiz6_q13",
           "text": "Nel KNN, quanto è il tempo di allenamento?",
           "choices": [
             {
@@ -6272,7 +6236,7 @@
           ]
         },
         {
-          "id": "quiz12_q9",
+          "id": "quiz6_q14",
           "text": "Quale è la giusta definizione di K-nearest neighbors",
           "choices": [
             {
@@ -6287,7 +6251,7 @@
           ]
         },
         {
-          "id": "quiz12_q10",
+          "id": "quiz6_q15",
           "text": "Di quali problemi di classificazione soffre il KNN?",
           "choices": [
             {
@@ -6305,7 +6269,7 @@
           ]
         },
         {
-          "id": "quiz12_q11",
+          "id": "quiz6_q16",
           "text": "In KNN, la distanza metrica booleana è",
           "choices": [
             {
@@ -6326,7 +6290,7 @@
           ]
         },
         {
-          "id": "quiz12_q12",
+          "id": "quiz6_q17",
           "text": "In KNN con dimensione di set di dati ridotto, è più performante?",
           "choices": [
             {
@@ -6341,7 +6305,7 @@
           ]
         },
         {
-          "id": "quiz12_q13",
+          "id": "quiz6_q18",
           "text": "Quali livelli sfruttano gli algoritmi di deep learning?",
           "choices": [
             {
@@ -6359,7 +6323,7 @@
           ]
         },
         {
-          "id": "quiz12_q14",
+          "id": "quiz6_q19",
           "text": "Nel deep learning quali tipi di algoritmi possiamo avere?",
           "choices": [
             {
@@ -6377,7 +6341,7 @@
           ]
         },
         {
-          "id": "quiz12_q15",
+          "id": "quiz6_q20",
           "text": "Nel deep learning i livelli sono espressi dal supervisore?",
           "choices": [
             {
@@ -6395,7 +6359,7 @@
           ]
         },
         {
-          "id": "quiz12_q16",
+          "id": "quiz6_q21",
           "text": "Nel deep learning, da dove vengono derivate le caratteristiche di più alto livello?",
           "choices": [
             {
@@ -6413,7 +6377,7 @@
           ]
         },
         {
-          "id": "quiz12_q17",
+          "id": "quiz6_q22",
           "text": "Nel deep learning I livelli multipli corrispondono a differenti livelli di astrazione?",
           "choices": [
             {
@@ -6431,7 +6395,7 @@
           ]
         },
         {
-          "id": "quiz12_q18",
+          "id": "quiz6_q23",
           "text": "Rispetto ad una generica applicazione biometrica per identificazione o screening, analizzando i valori delle Cumulative Match Characteristic (CMC) di diversi produttori, su quale sistema conviene probabilmente orientare la scelta?",
           "choices": [
             {
@@ -6452,7 +6416,7 @@
           ]
         },
         {
-          "id": "quiz12_q19",
+          "id": "quiz6_q24",
           "text": "Rispetto alla ISO/IEC 19795 Biometric Performance Testing and Reporting, quale delle seguenti strategia di valutazione corrisponde alla strategia chiamata \"Technology\"?",
           "choices": [
             {
@@ -6473,7 +6437,7 @@
           ]
         },
         {
-          "id": "quiz12_q20",
+          "id": "quiz6_q25",
           "text": "Nei sistemi ottici per l'acquisizione biometrica Ã¨ possibile trovare:",
           "choices": [
             {
@@ -6494,7 +6458,7 @@
           ]
         },
         {
-          "id": "quiz12_q21",
+          "id": "quiz6_q26",
           "text": "La distribuzione delle distanze di Hamming di comparazioni di IRISCODE sono simmetriche",
           "choices": [
             {
@@ -6515,7 +6479,7 @@
           ]
         },
         {
-          "id": "quiz12_q22",
+          "id": "quiz6_q27",
           "text": "Rispetto al contesto discusso a lezione, qual Ã¨ la tecnica che produce immagini sintetiche create utilizzando due input, in cui un criminale combina caratteristiche da un volto, come il movimento, con l'aspetto di un altro volto per creare un nuovo output video sintetico usando modelli anche tridimensionali. L'output presenta le caratteristiche dei tratti facciali dell'individuo genuino",
           "choices": [
             {
@@ -6536,7 +6500,7 @@
           ]
         },
         {
-          "id": "quiz12_q23",
+          "id": "quiz6_q28",
           "text": "Un sistema biometrico utilizza due immagini di due impronte digitali per estrarre le Minutiae. Successivamente, queste informazioni vengono combinate per eseguire il riconoscimento. In base a esperimenti e confronti adeguati, quale risultato ci si puÃ² aspettare in termini di accuratezza rispetto ad altre configurazioni?",
           "choices": [
             {
@@ -6557,7 +6521,7 @@
           ]
         },
         {
-          "id": "quiz12_q24",
+          "id": "quiz6_q29",
           "text": "Nella curva DET di un sistema biometrico in quale regione si trovano le applicazioni forensi quando nelle fasi iniziali dalle evidenze raccolte si cerca di rintracciare eventuali persone coinvolte?",
           "choices": [
             {
@@ -6578,7 +6542,7 @@
           ]
         },
         {
-          "id": "quiz12_q25",
+          "id": "quiz6_q30",
           "text": "Secondo il modello discusso a lezione di Paul Ekman della classificazione delle emozioni, esso identifica, oltre allo stato neutro, quante emozioni principali (nota: se le emozioni fossero NEUTRA, EMOZIONE1, EMOZIONE2?, la risposta sarebbe 2)?",
           "choices": [
             {
@@ -6605,7 +6569,7 @@
           ]
         },
         {
-          "id": "quiz12_q26",
+          "id": "quiz6_q31",
           "text": "Nel contesto della discussione fatta in classe, immaginando di avere a disposizione degli istogrammi rappresentanti le frequenze dello score match dei genuini e degli impostori ottenuti attraverso un insieme di N volontari con M sample per individuo, tenendo conto della cardinalitÃ  tipica dei confronti possibili in questo tipo di valutazioni, quale dei seguenti casi Ã¨ piÃ¹ probabile che sia vero per un valore tipico della soglia T disposta a separare i genuini dagli impostori?",
           "choices": [
             {
@@ -6626,7 +6590,7 @@
           ]
         },
         {
-          "id": "quiz12_q27",
+          "id": "quiz6_q32",
           "text": "Nell'ambito dell'apprendimento delle reti Deep in applicazioni biometriche, quale tecnica di difesa Ã¨ nota per migliorare la robustezza di un modello di machine learning agli attacchi avversari?",
           "choices": [
             {
@@ -6647,7 +6611,7 @@
           ]
         },
         {
-          "id": "quiz12_q28",
+          "id": "quiz6_q33",
           "text": "Rispetto al contesto discusso a lezione sui deepfake, le tecniche di voice cloning sono da considerarsi",
           "choices": [
             {
@@ -6668,7 +6632,7 @@
           ]
         },
         {
-          "id": "quiz12_q29",
+          "id": "quiz6_q34",
           "text": "Nella tassonomia dei tipi di attacco di un sistema biometrico quali di queste tecniche Ã¨ considerata un attacco diretto al sistema?",
           "choices": [
             {
@@ -6695,7 +6659,7 @@
           ]
         },
         {
-          "id": "quiz12_q30",
+          "id": "quiz6_q35",
           "text": "Relativo alla tassonomia degli attacchi avversari per i sistemi biometrici discussa a lezione quale delle seguenti tipologie Ã¨ definita nel seguente modo: \"Attacchi che modificano i dati di addestramento per aggiungere un backdoor. Per esempio, modelli di addestramento impercettibili creano backdoor che controllano i modelli\"?",
           "choices": [
             {
@@ -6717,15 +6681,9 @@
           "correctIndexes": [
             0
           ]
-        }
-      ]
-    },
-    {
-      "id": "quiz13",
-      "title": "Complementi di biometria - Parte 13",
-      "questions": [
+        },
         {
-          "id": "quiz13_q1",
+          "id": "quiz6_q36",
           "text": "Rispetto alla tassonomia degli attacchi avversari per i sistemi biometrici discussa a lezione quale delle seguenti tipologie Ã¨ definita nel seguente modo \"Attacchi che ottengono informazioni su dati privati. Ad esempio, un attacco puÃ² derivare proprietÃ  dei dati di addestramento del modello fino a identificare singole voci di dati\"?",
           "choices": [
             {
@@ -6749,7 +6707,7 @@
           ]
         },
         {
-          "id": "quiz13_q2",
+          "id": "quiz6_q37",
           "text": "Il contesto di applicazione della Cumulative Match Characteristic si riferisce a",
           "choices": [
             {
@@ -6767,7 +6725,7 @@
           ]
         },
         {
-          "id": "quiz13_q3",
+          "id": "quiz6_q38",
           "text": "Negli approcci di deeplearning applicati alla biometria basata sulle immagini con CNN tipicamente",
           "choices": [
             {
@@ -6788,7 +6746,7 @@
           ]
         },
         {
-          "id": "quiz13_q4",
+          "id": "quiz6_q39",
           "text": "In applicazioni biometriche, i modelli di deeplearning non risentono particolarmente della dimensione del dataset di apprendimento e possono essere applicati direttamente a piccoli e grandi dataset.",
           "choices": [
             {
@@ -6806,7 +6764,7 @@
           ]
         },
         {
-          "id": "quiz13_q5",
+          "id": "quiz6_q40",
           "text": "L'applicazione da risolvere richiede la valutazione della distribuzione degli impostori in una regione dove la frequenza degli errori Ã¨ 10-7 (1 parte su 10 milioni). Nel contesto della discussione fatta in classe, quale delle seguenti opzioni Ã¨ considerata piÃ¹ corretta?",
           "choices": [
             {

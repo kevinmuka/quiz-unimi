@@ -174,7 +174,7 @@
               "text": "Contribute to keep lower the complexity of the learning task"
             },
             {
-              "text": "All the above"
+              "text": "All the above (1. and 2.)"
             },
             {
               "text": "Are part of the classical machine learning approaches and they are (correctly)"
@@ -390,7 +390,7 @@
               "text": "ERR1 (Duplications with same labels)"
             },
             {
-              "text": "ERR2 (Duplications with different labels)"
+              "text": "ERR2"
             },
             {
               "text": "ERR1 = EER2"
@@ -1440,7 +1440,7 @@
               "text": "The margin"
             },
             {
-              "text": "Both"
+              "text": "Both (if the learning method you choose allow for it)"
             }
           ],
           "correctIndexes": [
@@ -2168,7 +2168,7 @@
     },
     {
       "id": "quiz3",
-      "title": "Set 3 (50 domande)",
+      "title": "Set 3 (48 domande)",
       "questions": [
         {
           "id": "quiz4_q101",
@@ -2362,7 +2362,7 @@
             }
           ],
           "correctIndexes": [
-            4
+            0
           ]
         },
         {
@@ -3047,27 +3047,6 @@
           ]
         },
         {
-          "id": "pdf_q139",
-          "text": "Which technique only requires receiving data, no formulas are needed, no need for a person to explain anything, and you can easily change the domain:",
-          "choices": [
-            {
-              "text": "Transduction"
-            },
-            {
-              "text": "Induction"
-            },
-            {
-              "text": "Deduction"
-            },
-            {
-              "text": "none"
-            }
-          ],
-          "correctIndexes": [
-            1
-          ]
-        },
-        {
           "id": "pdf_q141",
           "text": "What is Data Leakage in the context of machine learning? Select the option which is more representative of the Data Leakage concept.",
           "choices": [
@@ -3245,6 +3224,30 @@
           ]
         },
         {
+          "id": "pdf_q149",
+          "text": "In the k-Fold Cross Validation (k-FCV) technique, what does the parameter k represent?",
+          "choices": [
+            {
+              "text": "The number of eigenvalues in the dataset's covariance matrix"
+            },
+            {
+              "text": "The number of partitions the dataset is divided into"
+            },
+            {
+              "text": "The number of annealing steps in a training method"
+            },
+            {
+              "text": "The number of dimensions to be reduced with PCA"
+            },
+            {
+              "text": "The number of neighbors used in a k-NN classification algorithm"
+            }
+          ],
+          "correctIndexes": [
+            1
+          ]
+        },
+        {
           "id": "pdf_q150",
           "text": "According to the AI Act, which option correctly classifies AI based social scoring by governments and AI enabled video games?",
           "choices": [
@@ -3267,7 +3270,13 @@
           "correctIndexes": [
             2
           ]
-        },
+        }
+      ]
+    },
+    {
+      "id": "quiz4",
+      "title": "Set 4 (28 domande)",
+      "questions": [
         {
           "id": "pdf_q151",
           "text": "Which of the following scenarios is an example of Data Leakage?",
@@ -3315,13 +3324,7 @@
           "correctIndexes": [
             1
           ]
-        }
-      ]
-    },
-    {
-      "id": "quiz4",
-      "title": "Set 4 (25 domande)",
-      "questions": [
+        },
         {
           "id": "pdf_q153",
           "text": "According to the AI Act, which model is used to classify AI applications by risk?",
@@ -3453,7 +3456,7 @@
               "text": "It is a forward bootstrap method where random samples are created in a temporal sequence for training and validation"
             },
             {
-              "text": "It is a time series validation technique where the training set grows with each step, while the test set moves forward in time without overlapping previous training data"
+              "text": "t is a time series validation technique where the training set grows with each step, while the test set moves forward in time without overlapping previous training data"
             }
           ],
           "correctIndexes": [
@@ -3625,6 +3628,27 @@
             },
             {
               "text": "It is commonly avoided because it always makes the conversation too long and saturates the context window"
+            }
+          ],
+          "correctIndexes": [
+            2
+          ]
+        },
+        {
+          "id": "pdf_q168",
+          "text": "According to the class discussion about the input space of the intelligent systems, which is correct option ?",
+          "choices": [
+            {
+              "text": "It is not possible to think to the single datum in input to the neural network as a point in the \"input space\" of the model, in the case of a N dimensional vector when N >2"
+            },
+            {
+              "text": "Only for linear classifiers and linear regressors it is possible to think to the single datum in input to the neural network as a point in the \"input space\" of the model, even if the input is a single value, a N dimensional vector, or an image."
+            },
+            {
+              "text": "It is possible to think to the single datum in input to the neural network as a point in the \"input space\" of the model, even if the input is a single value, a N dimensional vector, or an image"
+            },
+            {
+              "text": "It is possible to think to the single datum in input to the neural network as a set of N points in the \"input space\" of the model"
             }
           ],
           "correctIndexes": [
